@@ -1,7 +1,1 @@
-# Simple express demo
-
-> Express: fast, unopinionated, minimalist web framework for Node.js
-
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
-
-Check out the [express documentation](https://expressjs.com/) for more information.
+This project demonstrates the use of Mongoose for modeling data in a backend application. It's a simple To-Do app that showcases how to set up and manage data schemas, perform CRUD operations, and interact with MongoDB. Built with Node.js and Express, this project focuses on the backend structure and database integration.
